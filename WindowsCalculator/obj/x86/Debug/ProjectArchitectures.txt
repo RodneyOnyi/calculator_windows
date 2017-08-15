@@ -1,0 +1,1 @@
+c:\users\rodney\documents\visual studio 2017\Projects\WindowsCalculator\WindowsCalculator\WindowsCalculator.csproj;x86
